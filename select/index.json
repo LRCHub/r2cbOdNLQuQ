@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Please, Please, Please, Let Me Get What I Want",
+  "base_artist": "The Smiths",
+  "createdAt": "2026-03-17T15:17:34.035601Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Please, Please, Please Let Me Get What I Want",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/01_Please,_Please,_Please_Let_Me_Get_What_I_Want_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Please, Please, Please, Let Me Get What I Want",
+      "artist": "Agridoce",
+      "has_synced": true,
+      "path": "select/02_Please,_Please,_Please,_Let_Me_Get_What_I_Want_Agridoce.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Please Please Please Let Me Get What I Want",
+      "artist": "Clayhill",
+      "has_synced": true,
+      "path": "select/03_Please_Please_Please_Let_Me_Get_What_I_Want_Clayhill.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Please, Please, Please, Let Me Get What I Want",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/04_Please,_Please,_Please,_Let_Me_Get_What_I_Want_Muse.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Please Please Please Let Me Get What I Want",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/05_Please_Please_Please_Let_Me_Get_What_I_Want_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Please, Please, Please, Let Me Get What I Want",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/06_Please,_Please,_Please,_Let_Me_Get_What_I_Want_Muse.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Please Please Please Let Me Get What I Want",
+      "artist": "Clayhill",
+      "has_synced": true,
+      "path": "select/07_Please_Please_Please_Let_Me_Get_What_I_Want_Clayhill.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Please Please Please Let Me Get What I Want",
+      "artist": "Elefant",
+      "has_synced": true,
+      "path": "select/08_Please_Please_Please_Let_Me_Get_What_I_Want_Elefant.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Please Please Please Let Me Get What I Want",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/09_Please_Please_Please_Let_Me_Get_What_I_Want_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Please, Please, Please Let Me Get What I Want",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/10_Please,_Please,_Please_Let_Me_Get_What_I_Want_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Please, Please, Please Let Me Get What I Want",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/11_Please,_Please,_Please_Let_Me_Get_What_I_Want_Muse.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Please Please Please Let Me Get What I Want",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/12_Please_Please_Please_Let_Me_Get_What_I_Want_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Please Please Please Let Me Get What I Want",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/13_Please_Please_Please_Let_Me_Get_What_I_Want_Muse.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Please, Please, Please Let Me Get What I Want",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/14_Please,_Please,_Please_Let_Me_Get_What_I_Want_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Please, Please, Please, Let Me Get What I Want",
+      "artist": "The Smiths",
+      "has_synced": true,
+      "path": "select/15_Please,_Please,_Please,_Let_Me_Get_What_I_Want_The_Smiths.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Please, Please, Please Let Me Get What I Want",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/16_Please,_Please,_Please_Let_Me_Get_What_I_Want_Muse.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Please, Please, Please, Let Me Get What I Want",
+      "artist": "Ohm Guru",
+      "has_synced": false,
+      "path": "select/17_Please,_Please,_Please,_Let_Me_Get_What_I_Want_Ohm_Guru.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Please Please Please Let Me Get What I Want",
+      "artist": "Dream Academy",
+      "has_synced": false,
+      "path": "select/18_Please_Please_Please_Let_Me_Get_What_I_Want_Dream_Academy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Please, Please, Please, Let Me Get What I Want",
+      "artist": "The Smiths",
+      "has_synced": false,
+      "path": "select/pl_01_Please,_Please,_Please,_Let_Me_Get_What_I_Want_The_Smiths.txt"
+    }
+  ]
+}
